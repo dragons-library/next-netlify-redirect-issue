@@ -4,6 +4,7 @@ module.exports = {
       {
         source: '/next-redirect',
         destination: '/redirect-success',
+        permanent: false,
       },
     ];
   },
