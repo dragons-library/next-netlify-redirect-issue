@@ -4,3 +4,7 @@
 
 [[plugins]]
   package = "netlify-plugin-cypress"
+
+[[redirects]]
+  from = "/netlify-redirect"
+  to = "/redirect-success"
